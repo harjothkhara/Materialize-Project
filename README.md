@@ -1,4 +1,7 @@
 # Materialize-Project
 reference materialize repo
 
-techstack used: html,css, jquery
+##tech-stack used
+```
+html, materialize(css framework), jquery
+```
