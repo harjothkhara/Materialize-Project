@@ -1,5 +1,5 @@
 # Materialize-Project
-reference materialize repo
+reference materialize repo. net-ninja tutorial
 
 ## tech-stack used
 ```
